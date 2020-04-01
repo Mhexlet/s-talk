@@ -1,0 +1,16 @@
+{
+    "name": "dmitryswift/s-talk",
+    "description": "Проект хекслета",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "makarov",
+            "email": "makarov@vibor38.ru"
+        }
+    ],
+    "bin": [
+	    "./sayHi",
+	    "./sayBy"
+    ],
+    "require": {}
+}
